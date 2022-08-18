@@ -1,4 +1,4 @@
-# Spot Hero Back End Test
+# Simple Spring Boot API Sample
 
 This application requires Gradle and Java 11 to be installed on the host machine.
 If you're installing Java for the first time, please ensure that all PATH variables are set appropriately before continuing.
